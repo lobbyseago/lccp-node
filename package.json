@@ -4,7 +4,7 @@
   "description": "Lobster Configuration and Command-Line Parsing (LCCP)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "repository": "https://github.com/lobbyseago/lccp-node",
   "scripts": {
     "build": "tsc -p tsconfig.json",
